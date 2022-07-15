@@ -1,4 +1,3 @@
-
 const length = (str) => {
     let index = 0;
     while(str[index] !== undefined) {
